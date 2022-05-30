@@ -1,12 +1,3 @@
-// numero de visitantes | numero de bicicletas
-// numero de linhas | numero de colunas
-// mapa da orla (matriz)
-// preferencias do 1 visitante
-// preferenciuas do segundo visitante etc...
-
-// calcualr distancias
-
-// stable matching
 #include <iostream>
 #include <fstream>
 #include <vector>
